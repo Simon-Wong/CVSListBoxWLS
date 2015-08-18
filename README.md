@@ -7,7 +7,10 @@ The function begining with SetObj is to set the variable that will be used in ca
 There is no need to explain Get and Set,:).
 The function begining with On are functons overriding the base's.
 
+All free but keep the class name!
+
 Enjoooooooooooooooooooooy it!
+
 Any Questions,E-mail to wlsandwho@foxmail.com,then bye-bye.
 
 
